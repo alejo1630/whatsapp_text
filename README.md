@@ -34,7 +34,7 @@ This Python Notebook creates word clouds using text information from the two use
   - User 2
    <img src = "https://github.com/alejo1630/whatsapp_text/blob/main/Images_Readme/u2.png" width="300" >
 
-- Word Cloud Icon can be changed using the list available at [W3 School Website](https://www.w3schools.com/icons/default.asp)
+- Word Cloud Icon can be changed using the list available at [W3 Schools Website](https://www.w3schools.com/icons/default.asp)
 
 ## 🔶 What is next?
 - Text analysis for Groups and Communities
